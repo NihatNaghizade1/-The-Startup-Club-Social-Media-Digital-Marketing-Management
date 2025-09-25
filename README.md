@@ -7,6 +7,8 @@ During my collaboration with The Startup Club, I managed and optimized the organ
 
 I also supported the Wix website management, designed carousel posts, video edits, and testimonials, and maintained a professional online presence aligned with the company’s goals.
 
+---
+
 🎯 Objectives
 
 Manage and grow the company’s multi-platform social media accounts
@@ -18,6 +20,8 @@ Maintain and update the Wix website for brand consistency
 Support audience growth and engagement with a clear content strategy
 
 Align creative outputs with startup branding & communication goals
+
+---
 
 ✅ Key Contributions
 
@@ -31,6 +35,8 @@ Align creative outputs with startup branding & communication goals
 
 💡 Built consistent brand storytelling across multiple channels
 
+---
+
 🛠️ Tools Used
 
 Figma – UI design & post mockups
@@ -41,6 +47,8 @@ CapCut Pro – Video editing & testimonials
 
 Wix – Website management & updates
 
+---
+
 📂 Project Type
 
 Social Media Management
@@ -50,6 +58,8 @@ Content Design & Video Editing
 Website Management (Wix)
 
 Startup Branding & Marketing
+
+---
 
 🔗 Project Resources
 
